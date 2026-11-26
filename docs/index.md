@@ -12,5 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://ikurdenkov.github.io/devops-docs/`.
-
-Контрольная проверка CI: [несуществующая страница](missing-page.md).
